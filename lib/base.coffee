@@ -1,3 +1,4 @@
+@CoffeePackageHandle = {}
 class @CoffeePackageHandle.Base #this should create a package level variable with this class attatched
  constructor: (@isBase) ->
    return true
